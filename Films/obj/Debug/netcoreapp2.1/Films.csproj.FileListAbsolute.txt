@@ -1,0 +1,68 @@
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.csprojAssemblyReference.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.AssemblyInfoInputs.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.AssemblyInfo.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.csproj.CoreCompileInputs.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorAssemblyInfo.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorAssemblyInfo.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.TagHelpers.input.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.TagHelpers.output.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorCoreGenerate.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorTargetAssemblyInfo.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorTargetAssemblyInfo.cs
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.dll
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.pdb
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Films.deps.json
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Films.runtimeconfig.json
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Films.runtimeconfig.dev.json
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Films.dll
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Films.pdb
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Films.Views.dll
+C:\Users\vikash\source\repos\Films\Films\bin\Debug\netcoreapp2.1\Films.Views.pdb
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.Views.pdb
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.genruntimeconfig.cache
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Films.csproj.CopyComplete
+C:\Users\vikash\source\repos\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_FilmPartial.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.csproj.AssemblyReference.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.AssemblyInfoInputs.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.AssemblyInfo.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.csproj.CoreCompileInputs.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorAssemblyInfo.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorAssemblyInfo.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.TagHelpers.input.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.TagHelpers.output.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.dll
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.pdb
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorCoreGenerate.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\Films.deps.json
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\Films.runtimeconfig.json
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\Films.runtimeconfig.dev.json
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\Films.dll
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\Films.pdb
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\Films.Views.dll
+C:\Users\alekh\Downloads\New folder\Films\Films\bin\Debug\netcoreapp2.1\Films.Views.pdb
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_FilmPartial.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorTargetAssemblyInfo.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.RazorTargetAssemblyInfo.cs
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.Views.pdb
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.genruntimeconfig.cache
+C:\Users\alekh\Downloads\New folder\Films\Films\obj\Debug\netcoreapp2.1\Films.csproj.CopyComplete

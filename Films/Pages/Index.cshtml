@@ -1,0 +1,13 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+    <div id="myCarousel" >
+        <h1 class="center" >Films List </h1>
+        @foreach(var fil in Model.lists)
+        {
+         <partial name="_FilmPartial" model="fil"/>
+        }
+    </div>
